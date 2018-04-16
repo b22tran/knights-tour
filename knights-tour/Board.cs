@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Assignment1_KnightsTour
+namespace knights-tour
 {
     class Board
     {
